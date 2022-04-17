@@ -1,0 +1,17 @@
+body {
+  background-color: pink;
+}
+
+.title {
+  text-align: center;
+}
+
+.cat1 {
+  border: 2px solid black;
+  background-color: white;
+  margin-left: 26vw;
+  margin-right: auto;
+  width: 30vw;
+  padding-left: 17%;
+}
+/*# sourceMappingURL=style.css.map */
