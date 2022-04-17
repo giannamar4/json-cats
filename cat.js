@@ -85,7 +85,7 @@ cats = JSON.parse(cats)
 </div>
 
 <div class="cat1">
- <h2>Cat 1: ${cats.cats[1]["name"]}</h2>
+ <h2>Cat 2: ${cats.cats[1]["name"]}</h2>
  <p> Breed: ${cats.cats[1]["breed"]}</p>
 <p> Color: ${cats.cats[1]["color"]}</p>
 <h4>Kittens:</h2>
@@ -106,7 +106,7 @@ cats = JSON.parse(cats)
 </div>
 
 <div class="cat1">
- <h2>Cat 1: ${cats.cats[2]["name"]}</h2>
+ <h2>Cat 3: ${cats.cats[2]["name"]}</h2>
  <p> Breed: ${cats.cats[2]["breed"]}</p>
 <p> Color: ${cats.cats[2]["color"]}</p>
 <h4>Kittens:</h2>
